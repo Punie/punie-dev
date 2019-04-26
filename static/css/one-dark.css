@@ -1,0 +1,136 @@
+.highlight>.chroma
+table:after {
+  background: #282c34 !important;
+}
+
+.highlight,code,
+pre.highlight {
+  background: #282c34 !important;
+  color: #abb2bf !important;
+}
+.highlight pre {
+  background: #282c34 !important;
+}
+.highlight .ge {
+  font-style: italic !important;
+}
+.highlight .gs {
+  font-weight: 700 !important;
+}
+.highlight .ow {
+  font-weight: 700 !important;
+}
+.highlight .n,
+.highlight .nf,
+.highlight .nn,
+.highlight .o,
+.highlight .p {
+  color: #abb2bf !important;
+}
+.highlight .c,
+.highlight .c1,
+.highlight .cm,
+.highlight .cp,
+.highlight .cs {
+  color: #5c6370 !important;
+  font-style: italic !important;
+}
+.highlight .sr,
+.highlight .ss {
+  color: #56b6c2 !important;
+}
+.highlight .k,
+.highlight .kc,
+.highlight .kd,
+.highlight .kn,
+.highlight .kp,
+.highlight .kr,
+.highlight .kt {
+  color: #c678dd !important;
+}
+.highlight .l,
+.highlight .ld,
+.highlight .s,
+.highlight .s1,
+.highlight .s2,
+.highlight .sb,
+.highlight .sc,
+.highlight .sd,
+.highlight .se,
+.highlight .sh,
+.highlight .si,
+.highlight .sx {
+  color: #98c379 !important;
+}
+.highlight .nt,
+.highlight .nx,
+.highlight .vi {
+  color: #e06c75 !important;
+}
+.highlight .il,
+.highlight .m,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo,
+.highlight .na {
+  color: #d19a66 !important;
+}
+.highlight .bp,
+.highlight .nb,
+.highlight .nc,
+.highlight .nd,
+.highlight .ne,
+.highlight .ni,
+.highlight .nl,
+.highlight .no,
+.highlight .nv,
+.highlight .py,
+.highlight .vc,
+.highlight .vg {
+  color: #e5c07b !important;
+}
+.highlight .err {
+  color: #fff !important;
+  background-color: #e05252 !important;
+}
+.highlight .gd {
+  color: #e05252 !important;
+}
+.highlight .gi {
+  color: #43d08a !important;
+}
+.highlight .w {
+  color: #f8f8f2 !important;
+}
+.highlight .cpf {
+  color: navy !important;
+}
+.highlight .gu {
+  color: #75715e !important;
+}
+.highlight .lineno {
+  color: #636d83 !important;
+  user-select: none !important;
+}
+.highlight .ln {
+  color: #636d83 !important;
+  user-select: none !important;
+}
+.highlight .ln:after {
+  content: ' ' !important;
+}
+.highlight .hll {
+  color: #abb2bf !important;
+  background-color: #3a3f4b !important;
+}
+.highlight .hl {
+  color: #abb2bf !important;
+  background-color: #3a3f4b !important;
+}
+.highlight .language-json .w + .s2 {
+  color: #e06c75 !important;
+}
+.highlight .language-json .kc {
+  color: #56b6c2 !important;
+}

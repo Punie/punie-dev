@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+@import url('https://cdn.rawgit.com/tonsky/FiraCode/1.205/distr/fira_code.css');
+
+.logo {
+  font-family: 'Gloria Hallelujah', cursive !important;
+}
+
+.post .post-content code, .post .post-content pre {
+  font-family: 'Fira Code', Consolas, Monaco, Menlo, monospace !important;
+}
